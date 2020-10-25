@@ -1,1 +1,2 @@
-# Introduction-to-artificial-intelligence
+### 人工智能导论作业
+  - 小组作业：A*算法的实现（以数码问题为例）
